@@ -14,7 +14,7 @@ export const projectsData = [
     description: "A responsive portfolio showcasing my skills and projects with smooth animations, dark mode toggle, and interactive elements.",
     emoji: "💼",
     tech: ["HTML5", "CSS3", "JavaScript", "GSAP"],
-    link: "https://your-portfolio-link.com",
+    link: "https://my-port-folio-khaki-chi.vercel.app/",
         github: "https://github.com/kalyan021004/MyPortFolio"
 
   },
