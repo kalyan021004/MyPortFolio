@@ -15,7 +15,7 @@ export const projectsData = [
     emoji: "💼",
     tech: ["HTML5", "CSS3", "JavaScript", "GSAP"],
     link: "https://your-portfolio-link.com",
-        github: "https://github.com/kalyan021004/AirbnbClone"
+        github: "https://github.com/kalyan021004/MyPortFolio"
 
   },
   {
