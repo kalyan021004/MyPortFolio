@@ -10,7 +10,6 @@ const Navigation = ({ isMenuOpen, toggleMenu, scrollToSection, activeSection }) 
         <div className="flex justify-between items-center py-4">
           <div className="text-2xl font-bold text-purple-600">Kalyan</div>
           
-          {/* Desktop Menu */}
           <div className="hidden md:flex space-x-8">
             {menuItems.map((item) => (
               <button
@@ -27,7 +26,6 @@ const Navigation = ({ isMenuOpen, toggleMenu, scrollToSection, activeSection }) 
             ))}
           </div>
 
-          {/* Mobile Menu Button */}
           <button
             onClick={toggleMenu}
             className="md:hidden p-2 rounded-lg hover:bg-gray-100"
@@ -36,7 +34,6 @@ const Navigation = ({ isMenuOpen, toggleMenu, scrollToSection, activeSection }) 
           </button>
         </div>
 
-        {/* Mobile Menu */}
         {isMenuOpen && (
           <div className="md:hidden py-4 border-t border-gray-200">
             {menuItems.map((item) => (
