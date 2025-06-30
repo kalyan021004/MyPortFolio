@@ -1,7 +1,7 @@
 export const projectsData = [
   {
     id: 1,
-    title: "Airbnb Clone",
+    title: "StayEasy",
     description: "A full-stack Airbnb-inspired web app where users can browse listings, view details, create accounts, and manage their own rentals.",
     emoji: "🏠",
     tech: ["EJS", "Node.js", "MongoDB", "Bootstrap"],
