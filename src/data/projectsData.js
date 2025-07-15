@@ -19,11 +19,11 @@ export const projectsData = [
   },
   {
     id: 3,
-    title: "NetMovie App",
-    description: "A full-featured movie streaming web application with user authentication, responsive design, and dynamic movie listings.",
-    emoji: "🎬",
-    tech: ["Node.js", "Express", "MongoDB", "EJS", "Bootstrap"],
-    link: "https://netmovie-r5ww.onrender.com",
-    github: "https://github.com/kalyan021004/NetMovie"
+    title: "TodoBoard",
+    description: "A full-featured task management application with real-time updates, drag-and-drop functionality, and collaborative features.",
+    emoji: "✅",
+    tech: ["React", "Node.js", "MongoDB", "Socket.io"],
+    link: "https://todo-board-1.vercel.app/",
+    github: "https://github.com/kalyan021004/TodoBoard"
   }
 ];
