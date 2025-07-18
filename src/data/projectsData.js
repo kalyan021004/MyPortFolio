@@ -6,7 +6,7 @@ export const projectsData = [
     emoji: "🏠",
     tech: ["EJS", "Node.js", "MongoDB", "Bootstrap"],
     link: "https://airbnbclone-xczi.onrender.com",
-    github: "https://github.com/kalyan021004/AirbnbClone"
+    github: "https://github.com/kalyan021004/StayEasy"
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const projectsData = [
     emoji: "🤝",
     tech: ["React", "Node.js", "WebRTC", "Socket.io"],
     link: "https://zoom-zeta-five.vercel.app/",
-    github: "https://github.com/kalyan021004/Zoom"
+    github: "https://github.com/kalyan021004/FriendsMeet"
   },
   {
     id: 3,
