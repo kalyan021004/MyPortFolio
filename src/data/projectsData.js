@@ -15,7 +15,7 @@ export const projectsData = [
     emoji: "🤝",
     tech: ["React", "Node.js", "WebRTC", "Socket.io"],
     link: "https://zoom-zeta-five.vercel.app/",
-    github: "https://github.com/kalyan021004/FriendsMeet"
+    github: "https://github.com/kalyan021004/Friends_Meet"
   },
   {
     id: 3,
