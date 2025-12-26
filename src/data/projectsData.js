@@ -5,7 +5,7 @@ export const projectsData = [
     description: "A full-stack accommodation discovery and booking platform where users can search places, view detailed listings, add properties, post reviews, and book stays with secure authentication.",
     emoji: "🏠",
     tech: ["EJS", "Node.js", "Express", "MongoDB", "Bootstrap"],
-    link: "https://airbnbclone-xczi.onrender.com",
+    link: "https://stay-easy-m7sk.onrender.com",
     github: "https://github.com/kalyan021004/StayEasy"
   },
   {
