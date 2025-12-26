@@ -2,28 +2,37 @@ export const projectsData = [
   {
     id: 1,
     title: "StayEasy",
-    description: "A full-stack Airbnb-inspired web app where users can browse listings, view details, create accounts, and manage their own rentals.",
+    description: "A full-stack accommodation discovery and booking platform where users can search places, view detailed listings, add properties, post reviews, and book stays with secure authentication.",
     emoji: "🏠",
-    tech: ["EJS", "Node.js", "MongoDB", "Bootstrap"],
+    tech: ["EJS", "Node.js", "Express", "MongoDB", "Bootstrap"],
     link: "https://airbnbclone-xczi.onrender.com",
     github: "https://github.com/kalyan021004/StayEasy"
   },
   {
     id: 2,
-    title: "FriendMeet",
-    description: "A video conferencing and meeting platform with real-time communication features, user authentication, and collaborative tools.",
-    emoji: "🤝",
-    tech: ["React", "Node.js", "WebRTC", "Socket.io"],
-    link: "https://zoom-zeta-five.vercel.app/",
-    github: "https://github.com/kalyan021004/Friends_Meet"
+    title: "AgriPredict",
+    description: "An AI-powered agriculture assistance platform that provides crop recommendations, disease detection (text & image-based), and farmer-friendly explanations using ML and GenAI.",
+    emoji: "🌾",
+    tech: ["React", "Node.js", "Express", "MongoDB", "OpenRouter (GenAI)", "JWT"],
+    link: "https://agri-predict-sandy.vercel.app/",
+    github: "https://github.com/AgriPredictSIH/AgriPredict"
   },
   {
     id: 3,
-    title: "TodoBoard",
-    description: "A full-featured task management application with real-time updates, drag-and-drop functionality, and collaborative features.",
-    emoji: "✅",
-    tech: ["React", "Node.js", "MongoDB", "Socket.io"],
-    link: "https://todo-board-1.vercel.app/",
-    github: "https://github.com/kalyan021004/TodoBoard"
+    title: "TaskManagementPortal",
+    description: "A real-time collaborative project management platform featuring Kanban boards, drag-and-drop task handling, team collaboration, live updates using WebSockets, authentication, and scalable backend architecture.",
+    emoji: "📊",
+    tech: [
+      "React",
+      "Redux Toolkit",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Socket.io",
+      "JWT",
+      
+    ],
+link: "https://task-manager-portal-zxpw.vercel.app/",
+    github: "https://github.com/kalyan021004/TaskManagerPortal_"
   }
 ];
