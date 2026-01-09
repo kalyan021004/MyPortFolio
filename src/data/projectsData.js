@@ -8,15 +8,24 @@ export const projectsData = [
     link: "https://stay-easy-m7sk.onrender.com",
     github: "https://github.com/kalyan021004/StayEasy"
   },
-  {
-    id: 2,
-    title: "AgriPredict",
-    description: "An AI-powered agriculture assistance platform that provides crop recommendations, disease detection (text & image-based), and farmer-friendly explanations using ML and GenAI.",
-    emoji: "🌾",
-    tech: ["React", "Node.js", "Express", "MongoDB", "OpenRouter (GenAI)", "JWT"],
-    link: "https://agri-predict-sandy.vercel.app/",
-    github: "https://github.com/AgriPredictSIH/AgriPredict"
-  },
+{
+  id: 2,
+  title: "DigitalConnect",
+  description: "A unified multilingual e-governance platform designed for rural communities. DigitalConnect enables citizens to access government welfare schemes, book doctor appointments, submit and track grievances, and interact with local authorities such as Gram Panchayats. The platform supports role-based access for citizens, doctors, state administrators, and panchayat officials, ensuring transparent service delivery and efficient governance.",
+  emoji: "🌾",
+  tech: [
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "JWT Authentication",
+    "i18next (Multilingual Support)",
+    "Bootstrap"
+  ],
+  link: "https://rural-connect-smoky.vercel.app",
+  github: "https://github.com/kalyan021004/DigitalConnect"
+}
+
   {
     id: 3,
     title: "TaskManagementPortal",
