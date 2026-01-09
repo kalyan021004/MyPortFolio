@@ -24,7 +24,7 @@ export const projectsData = [
   ],
   link: "https://rural-connect-smoky.vercel.app",
   github: "https://github.com/kalyan021004/DigitalConnect"
-}
+},
 
   {
     id: 3,
